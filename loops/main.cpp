@@ -11,6 +11,7 @@ int main() {
     cout << "¬вед≥ть верхню межу: ";
     cin >> upper;
 
+
     do {
         cout << "¬вед≥ть число в д≥апазон≥ [" << lower << ", " << upper << "]: ";
         cin >> number;
